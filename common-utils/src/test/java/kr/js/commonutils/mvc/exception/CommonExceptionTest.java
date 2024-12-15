@@ -18,5 +18,4 @@ class CommonExceptionTest {
         assertEquals(errorCode, exception.getErrorCode());
         assertEquals(message, exception.getMessage());
     }
-
 }
